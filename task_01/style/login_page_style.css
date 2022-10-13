@@ -1,0 +1,42 @@
+    .main_section{
+        width: 300px;
+        height: fit-content;
+        background-color: rgb(143, 143, 143);
+        border-radius: 30px;
+        padding-bottom: 70px;
+    }
+
+    .div_1{
+        width: auto;
+        justify-content: center;
+        display: flex;
+        
+    }
+
+    .div_1_h1{
+        font-size: 25px;
+        color: aliceblue;
+    }
+
+    .div_2{
+        width: auto;
+        justify-content: center;
+        display: flex;
+    }
+
+    .div_2_text_1{
+        justify-content: center;
+        display: flex;
+        color: rgb(187, 230, 0);
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        font-weight: 400;
+    }
+
+    input{
+        width: auto;
+        margin: 5px;
+        padding: 2px;
+        font-size: 12px;
+    }
